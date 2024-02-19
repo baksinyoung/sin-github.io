@@ -15,7 +15,8 @@ img {display:block; max-width:100%;}
 a {text-decoration:none;}
 
 .area {
-	min-height:50vh; padding-top:11vh;
+	min-height:50vh; padding-top:11vh;   padding-bottom: 11vh;
+
 }
 
 
